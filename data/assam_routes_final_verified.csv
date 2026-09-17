@@ -1,0 +1,17 @@
+route_id,transport_type,starting_point,destination_point,route_name,route_path,road_distance_km,road_type,highway_number,source
+ASTC001,Bus,Nagaon,Guwahati,Nagaon - Guwahati,Nagaon → Raha → Jagirod → Khanapara → Guwahati,123.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC002,Bus,Guwahati,Nagaon,Guwahati - Nagaon,Guwahati → Khanapara → Jagirod → Raha → Nagaon,123.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC003,Bus,Nagaon,Margherita,Nagaon - Margherita,Nagaon → Jakhalabandha → Bokakhat → Jorhat → Sivasagar → Dibrugarh → Tinsukia → Margherita,446.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC004,Bus,Margherita,Nagaon,Margherita - Nagaon,Margherita → Tinsukia → Dibrugarh → Sivasagar → Jorhat → Bokakhat → Jakhalabandha → Nagaon,446.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC005,Bus,Haflong,Guwahati,Haflong - Guwahati,Haflong → Lanka → Doboka → Nagaon → Jagirod → Guwahati,325.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC006,Bus,Guwahati,Haflong,Guwahati - Haflong,Guwahati → Jagirod → Nagaon → Doboka → Lanka → Haflong,325.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC007,Bus,Dibrugarh,Guwahati,Dibrugarh - Guwahati,Dibrugarh → Moran → Jorhat → Bokakhat → Nagaon → Guwahati,443.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Tinsukia Division
+ASTC008,Bus,Guwahati,Dibrugarh,Guwahati - Dibrugarh,Guwahati → Nagaon → Bokakhat → Jorhat → Moran → Dibrugarh,443.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Tinsukia Division
+ASTC009,Bus,Dibrugarh,Biswanath Chariali,Dibrugarh - Biswanath Chariali,Dibrugarh → Moran → Sivasagar → Jorhat → Bokakhat → Jakhalabandha → Tezpur → Biswanath Chariali,377.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Tinsukia Division
+ASTC010,Bus,Biswanath Chariali,Dibrugarh,Biswanath Chariali - Dibrugarh,Biswanath Chariali → Tezpur → Jakhalabandha → Bokakhat → Jorhat → Sivasagar → Moran → Dibrugarh,377.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Tinsukia Division
+ASTC011,Bus,Guwahati,Jorhat,Guwahati - Jorhat,Guwahati → Nagaon → Bokakhat → Jorhat,307.0,ASTC Bus Service,ASTC service route,ASTC Station/Service Timetables
+ASTC012,Bus,Jorhat,Guwahati,Jorhat - Guwahati,Jorhat → Bokakhat → Nagaon → Guwahati,307.0,ASTC Bus Service,ASTC service route,ASTC Station/Service Timetables
+ASTC013,Bus,Nagaon,Jorhat,Nagaon - Jorhat,Nagaon → Jakhalabandha → Bokakhat → Jorhat,184.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC014,Bus,Jorhat,Nagaon,Jorhat - Nagaon,Jorhat → Bokakhat → Jakhalabandha → Nagaon,184.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC015,Bus,Nagaon,Tinsukia,Nagaon - Tinsukia,Nagaon → Jakhalabandha → Bokakhat → Jorhat → Sivasagar → Dibrugarh → Tinsukia,396.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
+ASTC016,Bus,Tinsukia,Nagaon,Tinsukia - Nagaon,Tinsukia → Dibrugarh → Sivasagar → Jorhat → Bokakhat → Jakhalabandha → Nagaon,396.0,ASTC Bus Service,ASTC service route,ASTC Service-wise Timetable - Nagaon Division
