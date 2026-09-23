@@ -131,13 +131,13 @@ cd Public_Transport_Delay_Prediction
 ### 3. Install the required packages
 
 ```bash
-pip install pandas numpy scikit-learn nltk streamlit requests
+python -m pip install -r requirements.txt
 ```
 
 ### 4. Run the Streamlit application
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The application will open in your web browser.
